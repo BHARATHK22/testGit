@@ -6,3 +6,6 @@ firstCommitFileinGitHUB.txt
 firstCommitFileinGitHUB.txt
 firstCommitFileinGitHUB.txt
 firstCommitFileinGitHUB.txt
+SecondCommitFileinGitHUB.txt
+SecondCommitFileinGitHUB.txt
+SecondCommitFileinGitHUB.txt
